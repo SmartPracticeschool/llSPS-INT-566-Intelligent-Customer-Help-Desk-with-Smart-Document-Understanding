@@ -38,7 +38,10 @@ Customer care chat bot that can not only answer the basic questions such as stor
 
 #### Project Schedule: 1 Month (May-June)
 
-#### Node-Red URL after deploying: <https://node-red-sixtp.eu-gb.mybluemix.net/ui>
+#### Node-Red URL after deploying: 
+[![Click to go to Node-RED UI](https://user-images.githubusercontent.com/39110739/83250564-f2103880-a1c5-11ea-8063-95aeff68256a.png
+)](https://node-red-sixtp.eu-gb.mybluemix.net/ui "Click to go to Node-RED UI")
+
 
 #### Demonstration Video: 
 [![Intelligent Customer Help Desk with Smart Document Understanding | Watson Assistant | Umang Ajwalia](https://user-images.githubusercontent.com/39110739/83249703-9c875c00-a1c4-11ea-85ae-35df1c3b4c44.png
