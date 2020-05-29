@@ -40,5 +40,8 @@ Customer care chat bot that can not only answer the basic questions such as stor
 
 #### Node-Red URL after deploying: <https://node-red-sixtp.eu-gb.mybluemix.net/ui>
 
-#### Demonstration Youtube URL: <https://youtu.be/irchfIcORmk>
+#### Demonstration Video: 
+[![Intelligent Customer Help Desk with Smart Document Understanding | Watson Assistant | Umang Ajwalia](https://user-images.githubusercontent.com/39110739/83248040-166a1600-a1c2-11ea-93b6-49600184e5d7.png
+)](http://www.youtube.com/watch?v=irchfIcORmk "Intelligent Customer Help Desk with Smart Document Understanding | Watson Assistant | Umang Ajwalia")
+
 
